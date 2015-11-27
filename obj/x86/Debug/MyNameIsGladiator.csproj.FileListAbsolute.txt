@@ -1,0 +1,5 @@
+C:\Users\Nano\Desktop\Projet\MyNameIsGladiator\obj\x86\Debug\MyNameIsGladiator.csprojResolveAssemblyReference.cache
+C:\Users\Nano\Desktop\Projet\MyNameIsGladiator\obj\x86\Debug\MyNameIsGladiator.exe
+C:\Users\Nano\Desktop\Projet\MyNameIsGladiator\bin\Debug\MyNameIsGladiator.exe
+C:\Users\Nano\Desktop\Projet\MyNameIsGladiator\bin\Debug\MyNameIsGladiator.pdb
+C:\Users\Nano\Desktop\Projet\MyNameIsGladiator\obj\x86\Debug\MyNameIsGladiator.pdb
